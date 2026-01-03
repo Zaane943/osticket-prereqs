@@ -75,3 +75,9 @@ Step 9: From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 
 <p>
 <img width="843" height="533" alt="screenshot 9" src="https://github.com/user-attachments/assets/588dc7c7-4bcb-4a97-815c-fdc7e3bbbcdb" />
 Step 10: After opeining IIS as an admin, register PHP from within (PHP Manager -> C:\PHP\php-cgi.exe)
+</p>
+<p>
+<img width="814" height="699" alt="screenshot 10" src="https://github.com/user-attachments/assets/aadd58a4-f1cf-4193-b16a-8b09eb85e21a" />
+Step 11: After reloading IIS (open IIS, stop and start the server), install osTicket v1.15.8. Go into osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot” and rename “upload” to “osTicket”
+</p>
+<p>
