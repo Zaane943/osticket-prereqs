@@ -119,7 +119,22 @@ Step 14: Rename: ost-config.php from: C:\inetpub\wwwroot\osTicket\include\ost-sa
 </p>
 <p>
 <img width="699" height="512" alt="screenshot17" src="https://github.com/user-attachments/assets/53487316-705d-4e6d-943a-553be8f7b8e7" />
-Step 17: 
+</p>
+<p>
+ Step 17: From the “osTicket-Installation-Files” folder, install HeidiSQL. (Open Heidi SQL, create a new session, root/root, connect to the session, then create a database called “osTicket”)
+</p>
+<p>
+Continue Setting up osTicket in the browser (MySQL Database: osTicket, MySQL Username: root, MySQL Password: root, and click “Install Now!” (screenshot no available due to capture issues during setup).
+</p>
+<p>
+<img width="617" height="499" alt="screenshot18" src="https://github.com/user-attachments/assets/71a426c2-ef01-4f6a-a672-17c0b2c10e4b" />
+Step 18: Congratulations! You have successfully installed the osTicket system and now can move on to part 2 (post installation)!
+
+
+
+
+
+
 
 
 
