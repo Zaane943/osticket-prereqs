@@ -53,12 +53,15 @@ Step 3: Copy https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAy
 <br />
 
 <img width="2304" height="1536" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/cff025db-77e3-49e5-9320-cc2ab54b4579" />
+
 Step 4: Install / Enable IIS in Windows WITH CGI (World Wide Web Services -> Application Development Features -> [X] CGI)
 
 <img width="846" height="466" alt="screenshot 4 5" src="https://github.com/user-attachments/assets/ff2a41c6-f1ea-4650-81cc-dbcd609526b1" />
-From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+
+Step 5: From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
 <img width="855" height="450" alt="screenshot 5 5" src="https://github.com/user-attachments/assets/9892596c-f5ba-4ead-89f4-15ed73a03db9" />
-From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
+
+Step 6: From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
 
 
