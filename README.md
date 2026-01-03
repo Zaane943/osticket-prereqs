@@ -41,7 +41,6 @@ Step 1: Start by creating a virtual machine in azure named "osTicket-vm" or simi
 <img width="2297" height="1467" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/498e3333-7b57-4014-a7e0-33140cea81b3" />
 </p>
 <p>
-</p>
 Step 2: After creating your virtual machine, open the remote desktop app and connect to that vm's public IP address 
 <br />
 <p>
