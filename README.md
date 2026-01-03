@@ -56,6 +56,6 @@ Step 2: After creating your virtual machine, open the remote desktop app and con
  
 </p>
 <p>
-Step 3:
+Step 3: Copyhttps://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD into the search bar, then download and unzip the osTicket folder.
 </p>
 <br />
