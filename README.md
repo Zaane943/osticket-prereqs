@@ -23,11 +23,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
+- Remote Desktop Protocol (RDP)
 - Microsoft Visual C++ Redistributable Files
 - MySQL Server 5.5.62
+- PHP 7.3
 - HeidiSQL Database Client
-- Item 4
-- Item 5
 
 <h2>Installation Steps</h2>
 <p>
