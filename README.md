@@ -97,25 +97,25 @@ Step 12: After reloading IIS again (open IIS, stop and start the server), Go to 
  OsTicket installation page should look like this afterwards
 </p>
 <p>
-Rename: ost-config.php from: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to: C:\inetpub\wwwroot\osTicket\include\ost-config.php (screenshot not available due to capture issues during setup).
+Step 14: Rename: ost-config.php from: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to: C:\inetpub\wwwroot\osTicket\include\ost-config.php (screenshot not available due to capture issues during setup).
 </p>
 <p>
 <img width="682" height="636" alt="screenshot14" src="https://github.com/user-attachments/assets/46226c9d-5508-40d7-ace4-f0dd0c76de3d" />
-Step 14: Assign Permissions: ost-config.php (Disable inheritance -> Remove All New Permissions -> Everyone -> All)
+Step 15: Assign Permissions: ost-config.php (Disable inheritance -> Remove All New Permissions -> Everyone -> All)
 </p>
 <p>
 <img width="615" height="568" alt="screenshot 13" src="https://github.com/user-attachments/assets/5f002e47-9387-416e-9d9c-1a59dc2d93d3" />
 </p>
 <p>
 <img width="614" height="658" alt="screenshot15" src="https://github.com/user-attachments/assets/c95b55b9-acce-4637-bf5c-e320c6fda86a" />
-Step 15: Continue Setting up osTicket in the browser by clicking Continue. Name your help desk and put a default email that customers can send an email to
+Step 16: Continue Setting up osTicket in the browser by clicking Continue. Name your help desk and put a default email that customers can send an email to
 </p>
 <p>
 <img width="448" height="339" alt="screenshot16" src="https://github.com/user-attachments/assets/8db38b4d-bf2d-49a4-b58b-1d903e64e2b3" />
 </p>
 <p>
 <img width="699" height="512" alt="screenshot17" src="https://github.com/user-attachments/assets/53487316-705d-4e6d-943a-553be8f7b8e7" />
-Step 16: 
+Step 17: 
 
 
 
