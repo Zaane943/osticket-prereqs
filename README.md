@@ -92,7 +92,9 @@ Step 12: After reloading IIS again (open IIS, stop and start the server), Go to 
 </p>
 <p>
 <img width="615" height="568" alt="screenshot 13" src="https://github.com/user-attachments/assets/6b2fcce2-3f09-4693-941e-29ca3a181472" />
-OsTicket installation page should look like this afterwards
+</p>
+<p>
+ OsTicket installation page should look like this afterwards
 </p>
 <p>
 Rename: ost-config.php from: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to: C:\inetpub\wwwroot\osTicket\include\ost-config.php (screenshot not available due to capture issues during setup).
