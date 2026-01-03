@@ -68,6 +68,7 @@ Step 6: From the “osTicket-Installation-Files” folder install the Rewrite Mo
 Step 7: Create the directory C:\PHP. Then from the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 
 
+
 <img width="848" height="455" alt="screenshot 6" src="https://github.com/user-attachments/assets/58d46d6d-7b95-48f4-a40d-5c18ac1b38c1" />
 Step 8: From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
 
