@@ -81,3 +81,8 @@ Step 10: After opeining IIS as an admin, register PHP from within (PHP Manager -
 Step 11: After reloading IIS (open IIS, stop and start the server), install osTicket v1.15.8. Go into osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot” and rename “upload” to “osTicket”
 </p>
 <p>
+<img width="848" height="529" alt="screenshot 11" src="https://github.com/user-attachments/assets/566c62ff-0a2c-4974-bac4-018ee512ea75" />
+Step 12: After reloading IIS again (open IIS, stop and start the server), Go to sites -> Default -> osTicket. Then On the right, click “Browse *:80”
+</p>
+<p>
+
