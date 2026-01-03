@@ -71,3 +71,7 @@ Step 8: From the “osTicket-Installation-Files” folder, install VC_redist.x86
  <img width="372" height="285" alt="screenshot 8" src="https://github.com/user-attachments/assets/a83c498e-df4c-448d-8563-7811ead40c56" />
  </p>
 Step 9: From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Typical Setup -> Launch config wizard -> Standard Config -> (username: root/password: root)
+</p>
+<p>
+<img width="843" height="533" alt="screenshot 9" src="https://github.com/user-attachments/assets/588dc7c7-4bcb-4a97-815c-fdc7e3bbbcdb" />
+Step 10: After opeining IIS as an admin, register PHP from within (PHP Manager -> C:\PHP\php-cgi.exe)
