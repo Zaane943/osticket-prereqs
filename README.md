@@ -85,4 +85,8 @@ Step 11: After reloading IIS (open IIS, stop and start the server), install osTi
 Step 12: After reloading IIS again (open IIS, stop and start the server), Go to sites -> Default -> osTicket. Then On the right, click “Browse *:80”
 </p>
 <p>
+<img width="618" height="576" alt="screenshot 12" src="https://github.com/user-attachments/assets/80608b81-b849-4560-9a4d-d34db9d33d84" />
+Step 13: Because some extensions are not labled, you will need to go back to IIS, sites -> Default -> osTicket, double-click PHP Manager, click “Enable or disable an extension," enable: php_imap.dll, Enable: php_intl.dll, enable: php_opcache.dll, then observe the changes after refreshing the osTicket site in your browser (screenshot not available due to capture issues during setup).
+</p>
+<p>
 
