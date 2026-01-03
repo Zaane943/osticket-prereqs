@@ -65,5 +65,9 @@ Step 5: From the “osTicket-Installation-Files” folder, install PHP Manager f
 Step 6: From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
 
 <img width="2304" height="1536" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/a318c20f-cd70-426b-bcf0-a79e588f3c08" />
-Step 7: Create the directory C:\PHP
+Step 7: Create the directory C:\PHP. Then from the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+
+<img width="848" height="455" alt="screenshot 6" src="https://github.com/user-attachments/assets/58d46d6d-7b95-48f4-a40d-5c18ac1b38c1" />
+Step 8: From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
+
 
