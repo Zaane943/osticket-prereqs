@@ -30,7 +30,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 5
 
 <h2>Installation Steps</h2>
-
 <p>
 <img width="2304" height="1463" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/10a3534f-8f73-47ce-9763-f0b93dc7fd96" />
 </p>
@@ -38,7 +37,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Step 1: Start by creating a virtual machine in azure named "osTicket-vm" or similar under a resource group under the name of "osTicket." Be sure to select Windows 10 Pro in image with at least 2 vcpus for the size.  
 </p>
 <br />
-
 <p>
 <img width="2297" height="1467" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/498e3333-7b57-4014-a7e0-33140cea81b3" />
 </p>
@@ -54,4 +52,6 @@ Step 3: Copy https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAy
 </p>
 <br />
 <img width="2304" height="1536" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/cff025db-77e3-49e5-9320-cc2ab54b4579" />
-Step 4: 
+Step 4: Install / Enable IIS in Windows WITH CGI (World Wide Web Services -> Application Development Features -> [X] CGI)
+
+
