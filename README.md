@@ -64,4 +64,6 @@ Step 5: From the “osTicket-Installation-Files” folder, install PHP Manager f
 
 Step 6: From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
 
+<img width="2304" height="1536" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/a318c20f-cd70-426b-bcf0-a79e588f3c08" />
+Step 7: Create the directory C:\PHP
 
