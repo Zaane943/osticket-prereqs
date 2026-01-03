@@ -37,8 +37,6 @@ Step 1: Start by creating a virtual machine in azure named "osTicket-vm" or simi
 <br />
 <p>
 <img width="2297" height="1467" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/498e3333-7b57-4014-a7e0-33140cea81b3" />
-</p>
-<p>
 Step 2: After creating your virtual machine, open the remote desktop app and connect to that vm's public IP address 
 <br />
 <p>
@@ -48,7 +46,6 @@ Step 3: Copy https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAy
 <br />
 
 <img width="2304" height="1536" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/cff025db-77e3-49e5-9320-cc2ab54b4579" />
-</p>
 Step 4: Install / Enable IIS in Windows WITH CGI (World Wide Web Services -> Application Development Features -> [X] CGI)
 </p>
 <p>
