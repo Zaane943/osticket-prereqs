@@ -128,7 +128,9 @@ Continue Setting up osTicket in the browser (MySQL Database: osTicket, MySQL Use
 </p>
 <p>
 <img width="617" height="499" alt="screenshot18" src="https://github.com/user-attachments/assets/71a426c2-ef01-4f6a-a672-17c0b2c10e4b" />
-Step 18: Congratulations! You have successfully installed the osTicket system and now can move on to part 2 (post installation)!
+</p>
+<p>
+ Step 18: Congratulations! You have successfully installed the osTicket system and now can move on to part 2 (post installation)!
 
 
 
