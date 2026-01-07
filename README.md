@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 <p>
 <img width="2304" height="1463" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/10a3534f-8f73-47ce-9763-f0b93dc7fd96" />
-Step 1: Start by creating a virtual machine in azure named "osTicket-vm" or similar with a resource group under the name of "osTicket." Be sure to select Windows 10 Pro in image with at least 2 vcpus for the size.  
+Step 1: Hi there! Prepare to install the osTicketing system with me. Start by creating a virtual machine in azure named "osTicket-vm" or similar with a resource group under the name of "osTicket." Be sure to select Windows 10 Pro in image with at least 2 vcpus for the size.  
 </p>
 <br />
 <p>
@@ -47,7 +47,7 @@ Step 3: Copy https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAy
 <br />
 
 <img width="2304" height="1536" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/cff025db-77e3-49e5-9320-cc2ab54b4579" />
-Step 4: Install / Enable IIS in Windows WITH CGI (World Wide Web Services -> Application Development Features -> [X] CGI)
+Step 4: Now, we're going to install / Enable IIS in Windows WITH CGI (World Wide Web Services -> Application Development Features -> [X] CGI)
 </p>
 <p>
 <img width="846" height="466" alt="screenshot 4 5" src="https://github.com/user-attachments/assets/ff2a41c6-f1ea-4650-81cc-dbcd609526b1" />
@@ -55,11 +55,11 @@ Step 5: From the “osTicket-Installation-Files” folder, install PHP Manager f
 </p>
 <p>
 <img width="855" height="450" alt="screenshot 5 5" src="https://github.com/user-attachments/assets/9892596c-f5ba-4ead-89f4-15ed73a03db9" />
-Step 6: From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
+Step 6: Going into the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
 </p>
 <p>
 <img width="2304" height="1536" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/a318c20f-cd70-426b-bcf0-a79e588f3c08" />
-Step 7: Create the directory C:\PHP. Then from the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+Step 7: Up next, we are going to create the directory C:\PHP. Then from the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 </p>
 <p>
 
@@ -71,7 +71,7 @@ Step 8: From the “osTicket-Installation-Files” folder, install VC_redist.x86
 </p>
  <img width="372" height="285" alt="screenshot 8" src="https://github.com/user-attachments/assets/a83c498e-df4c-448d-8563-7811ead40c56" />
  </p>
-Step 9: From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Typical Setup -> Launch config wizard -> Standard Config -> (username: root/password: root)
+Step 9: Still in the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Typical Setup -> Launch config wizard -> Standard Config -> (username: root/password: root)
 </p>
 <p>
 <img width="843" height="533" alt="screenshot 9" src="https://github.com/user-attachments/assets/588dc7c7-4bcb-4a97-815c-fdc7e3bbbcdb" />
