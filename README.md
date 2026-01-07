@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 <p>
 <img width="2304" height="1463" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/10a3534f-8f73-47ce-9763-f0b93dc7fd96" />
-Step 1: Start by creating a virtual machine in azure named "osTicket-vm" or similar under a resource group under the name of "osTicket." Be sure to select Windows 10 Pro in image with at least 2 vcpus for the size.  
+Step 1: Start by creating a virtual machine in azure named "osTicket-vm" or similar with a resource group under the name of "osTicket." Be sure to select Windows 10 Pro in image with at least 2 vcpus for the size.  
 </p>
 <br />
 <p>
