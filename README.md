@@ -357,9 +357,6 @@ Step 22: With the last topic being "Equipment Request," under "General Inquiry,"
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. Configuring ticket categories and priorities, verifying system functionality through test ticket submissions, and testing the system to ensure tickets were submitted and routed correctly. Part 3 of 3
 <br />
 
-
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -369,8 +366,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
-
-
 
 <h2> Ticket Lifecycle Stages: 
 </p>
