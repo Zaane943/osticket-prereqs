@@ -330,7 +330,7 @@ Step 18: And lastly, we're creating Sev-C with a grace period of 8 hrs, and the 
 Your SLA section should consist of all three now.
 </p>
 <p>
-Step 19: TGhe last thing we are going to do for this section is add a few help topics.
+Step 19: The last thing we are going to do for this section is add a few help topics.
 </p>
 <p>
 <img width="734" height="514" alt="screenshot 52" src="https://github.com/user-attachments/assets/4eeb4abf-35c6-4445-9e00-7635c277b727" />
