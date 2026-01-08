@@ -539,8 +539,7 @@ Step 23: Note that the issue was resolved and adobe is back up and running.
 </p>
 <p>
 <img width="490" height="173" alt="screenshot 90" src="https://github.com/user-attachments/assets/f8788cdc-ed23-4978-b2fd-75880925ec79" />
-</p>
-<p>
+
 Step 24: Now set the ticket status to "Closed" as this wraps up the project on installing and configuring the osTicketing system! :-)
 
 
