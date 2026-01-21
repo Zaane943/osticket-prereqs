@@ -33,15 +33,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 <p>
 <img width="2304" height="1463" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/10a3534f-8f73-47ce-9763-f0b93dc7fd96" />
-Step 1: Hi there! Prepare to install the osTicketing system with me. Start by creating a virtual machine in azure named "osTicket-vm" or similar with a resource group under the name of "osTicket." Be sure to select Windows 10 Pro in image with at least 2 vcpus for the size. At the bottom of this creation page, it should prompt you to create a username and password. For the username, type in "labuser," and for the password, type in "osTicketPassword1!" as this will be your log in info each time you log into your remote desktop.  
+<img width="558" height="553" alt="Screenshot 2026-01-20 211839" src="https://github.com/user-attachments/assets/52d2e9c9-58d8-46e5-8f7c-c70c7b9918d3" />
+</p>
+<p>
+Step 1: Hi there! Prepare to install the osTicketing system with me. Start by creating a virtual machine in azure named "osTicket-vm" or similar with a resource group under the name of "osTicket." Be sure to select Windows 10 Pro in image with at least 2 vcpus for the size. At the bottom of this creation page, it should prompt you to create a username and password. For the username, type in "labuser," and for the password, type in "osTicketPassword1!" as this will be your log in info each time you log into your remote desktop. At the very bottom, make sure you check the licensing agreement so it weill let you proceed. Then right belolw that, hit next for the "disks" page.
+</p>
+<p>
+ <img width="554" height="263" alt="Screenshot 2026-01-20 211940" src="https://github.com/user-attachments/assets/88e89c19-f086-4502-ba19-1afcbc60a997" />
+</p>
+<p>
+ As there is nothing to do on this page, hit next again for the "networking" page. Within the networking page, switch the subnet to "default" then hit "review+create." Once it's been successfully deployed, hit "create."
 </p>
 <br />
 <p>
- <img width="833" height="333" alt="Screenshot 2026-01-20 210006" src="https://github.com/user-attachments/assets/011ab3f1-d6f9-42de-8643-df8cdf124b37" />
+<img width="833" height="333" alt="Screenshot 2026-01-20 210006" src="https://github.com/user-attachments/assets/011ab3f1-d6f9-42de-8643-df8cdf124b37" />
 </p>
 <p>
- Step 2: After 
-<img width="2297" height="1467" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/498e3333-7b57-4014-a7e0-33140cea81b3" />
+ Step 2: After creating the virtual machine, ensure that the IP address works by logging into your remote desktop using the login info we just created (username: labuser password: osTicketPassword1!)
+</p>
+<p>
+ <img width="418" height="314" alt="Screenshot 2026-01-20 210058" src="https://github.com/user-attachments/assets/5333a250-3160-4cb1-b911-176a13612006" />
+</p>
+<p>
+ You will know you've successfully created the IP adress if this pop up appears after logging in. Hit "yes"
+</p>
+<p>
+ <img width="2297" height="1467" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/498e3333-7b57-4014-a7e0-33140cea81b3" />
 Step 2: After creating your virtual machine, open the remote desktop app and connect to that vm's public IP address 
 <br />
 <p>
