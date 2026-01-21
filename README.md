@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="558" height="553" alt="Screenshot 2026-01-20 211839" src="https://github.com/user-attachments/assets/52d2e9c9-58d8-46e5-8f7c-c70c7b9918d3" />
 </p>
 <p>
-Step 1: Hi there! Prepare to install the osTicketing system with me. Start by creating a virtual machine in azure named "osTicket-vm" or similar with a resource group under the name of "osTicket." Be sure to select Windows 10 Pro in image with at least 2 vcpus for the size. At the bottom of this creation page, it should prompt you to create a username and password. For the username, type in "labuser," and for the password, type in "osTicketPassword1!" as this will be your log in info each time you log into your remote desktop. At the very bottom, make sure you check the licensing agreement so it weill let you proceed. Then right belolw that, hit next for the "disks" page.
+Step 1: Hi there! Prepare to install the osTicketing system with me. Start by creating a virtual machine in azure named "osTicket-vm" or similar with a resource group under the name of "osTicket." Be sure to select Windows 10 Pro in image with at least 2 vcpus for the size. At the bottom of this creation page, it should prompt you to create a username and password. For the username, type in "labuser," and for the password, type in "osTicketPassword1!" as this will be your log in info each time you log into your remote desktop. At the very bottom, make sure you check the licensing agreement so it will let you proceed. Then right belolw that, hit next for the "disks" page.
 </p>
 <p>
  <img width="554" height="263" alt="Screenshot 2026-01-20 211940" src="https://github.com/user-attachments/assets/88e89c19-f086-4502-ba19-1afcbc60a997" />
