@@ -59,10 +59,9 @@ Step 1: Hi there! Prepare to install the osTicketing system with me. Start by cr
 </p>
 <p>
 <img width="2304" height="1536" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/19f3c295-979a-4671-887e-b41ac6caf0ca" />
-Step 3: Copy https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD into the search bar, then download and unzip the osTicket folder.
+Step 3: Once officially logged into your remote desktop, copy the link https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD into the search bar, then download and unzip the osTicket folder.
 </p>
-<br />
-
+<p>
 <img width="2304" height="1536" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/cff025db-77e3-49e5-9320-cc2ab54b4579" />
 Step 4: Now, we're going to install / Enable IIS in Windows WITH CGI (World Wide Web Services -> Application Development Features -> [X] CGI)
 </p>
