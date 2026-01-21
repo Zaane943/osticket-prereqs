@@ -44,9 +44,9 @@ Step 1: Hi there! Prepare to install the osTicketing system with me. Start by cr
 <p>
  As there is nothing to do on this page, hit next again for the "networking" page. Within the networking page, switch the subnet to "default" then hit "review+create." Once it's been successfully deployed, hit "create."
 </p>
-<br />
 <p>
-<img width="833" height="333" alt="Screenshot 2026-01-20 210006" src="https://github.com/user-attachments/assets/011ab3f1-d6f9-42de-8643-df8cdf124b37" />
+ <img width="2297" height="1467" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/498e3333-7b57-4014-a7e0-33140cea81b3" />
+ <img width="833" height="333" alt="Screenshot 2026-01-20 210006" src="https://github.com/user-attachments/assets/8730c45a-dc30-430f-abae-a9a0c8b17933" />
 </p>
 <p>
  Step 2: After creating the virtual machine, ensure that the IP address works by logging into your remote desktop using the login info we just created (username: labuser password: osTicketPassword1!)
@@ -58,11 +58,7 @@ Step 1: Hi there! Prepare to install the osTicketing system with me. Start by cr
  You will know you've successfully created the IP adress if this pop up appears after logging in. Hit "yes"
 </p>
 <p>
- <img width="2297" height="1467" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/498e3333-7b57-4014-a7e0-33140cea81b3" />
-Step 2: After creating your virtual machine, open the remote desktop app and connect to that vm's public IP address 
-<br />
-<p>
- <img width="2304" height="1536" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/19f3c295-979a-4671-887e-b41ac6caf0ca" />
+<img width="2304" height="1536" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/19f3c295-979a-4671-887e-b41ac6caf0ca" />
 Step 3: Copy https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD into the search bar, then download and unzip the osTicket folder.
 </p>
 <br />
